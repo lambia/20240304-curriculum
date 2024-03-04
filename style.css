@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: #222222;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: orangered;
+}
+
+h3 {
+    color: orange;
+}
+
+footer {
+    font-size: 0.7em;
+}
+
+* {
+    /* padding: 0;
+    margin: 0; */
+    box-sizing: border-box;
+}
